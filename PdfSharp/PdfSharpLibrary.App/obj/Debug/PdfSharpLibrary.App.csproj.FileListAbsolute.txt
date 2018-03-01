@@ -1,0 +1,12 @@
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\bin\Debug\PdfSharpLibrary.App.exe.config
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\bin\Debug\PdfSharpLibrary.App.exe
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\bin\Debug\PdfSharpLibrary.App.pdb
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\obj\Debug\PdfSharpLibrary.App.csprojResolveAssemblyReference.cache
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\obj\Debug\PdfSharpLibrary.App.Form1.resources
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\obj\Debug\PdfSharpLibrary.App.Properties.Resources.resources
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\obj\Debug\PdfSharpLibrary.App.csproj.GenerateResource.Cache
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\obj\Debug\PdfSharpLibrary.App.exe
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\obj\Debug\PdfSharpLibrary.App.pdb
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\bin\Debug\PdfSharpLibrary.Server.dll
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\bin\Debug\PdfSharp.dll
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.App\bin\Debug\PdfSharpLibrary.Server.pdb

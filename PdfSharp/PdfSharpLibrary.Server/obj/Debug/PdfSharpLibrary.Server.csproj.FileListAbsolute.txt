@@ -1,0 +1,5 @@
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.Server\bin\Debug\PdfSharpLibrary.Server.dll
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.Server\bin\Debug\PdfSharpLibrary.Server.pdb
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.Server\bin\Debug\PdfSharp.dll
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.Server\obj\Debug\PdfSharpLibrary.Server.dll
+D:\Development\Spike Projects\Office\PDF\PdfSharp\PdfSharpLibrary.Server\obj\Debug\PdfSharpLibrary.Server.pdb

@@ -1,0 +1,10 @@
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\bin\Debug\ITextSharpLibrary.App.exe.config
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\bin\Debug\ITextSharpLibrary.App.exe
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\bin\Debug\ITextSharpLibrary.App.pdb
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\bin\Debug\ITextSharpLibrary.Server.dll
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\bin\Debug\itextsharp.dll
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\bin\Debug\ITextSharpLibrary.Server.pdb
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\bin\Debug\itextsharp.xml
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\obj\Debug\ITextSharpLibrary.App.csprojResolveAssemblyReference.cache
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\obj\Debug\ITextSharpLibrary.App.exe
+D:\Development\Spike Projects\Office\PDF\ITextSharp\ITextSharpLibrary.App\obj\Debug\ITextSharpLibrary.App.pdb

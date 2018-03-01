@@ -1,0 +1,6 @@
+D:\Development\Applications\Elance\Freelancer.PdfConverter\Freelancer.PdfConverter.Server\bin\Release\Freelancer.PdfConverter.Server.dll
+D:\Development\Applications\Elance\Freelancer.PdfConverter\Freelancer.PdfConverter.Server\bin\Release\Freelancer.PdfConverter.Server.pdb
+D:\Development\Applications\Elance\Freelancer.PdfConverter\Freelancer.PdfConverter.Server\bin\Release\PdfSharp.dll
+D:\Development\Applications\Elance\Freelancer.PdfConverter\Freelancer.PdfConverter.Server\obj\Release\Freelancer.PdfConverter.Server.csprojResolveAssemblyReference.cache
+D:\Development\Applications\Elance\Freelancer.PdfConverter\Freelancer.PdfConverter.Server\obj\Release\Freelancer.PdfConverter.Server.dll
+D:\Development\Applications\Elance\Freelancer.PdfConverter\Freelancer.PdfConverter.Server\obj\Release\Freelancer.PdfConverter.Server.pdb
